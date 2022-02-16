@@ -1,7 +1,7 @@
-# Installing guide for linux (ubuntu)
+# Installing guide for linux (Ubuntu)
 
 1. Install Java Virtual machine: `sudo apt install default-jre`
-2. Download Eclipse IDE: `https://eclipse.org/downloads/`
+2. Download Eclipse IDE: [Link](https://eclipse.org/downloads/)
 3. Execute in console: `tar xf eclipse-inst-linux64.tar.gz`
 4. Execute in console: `cd eclipse-installer`
 5. Execute in console: `./eclipse-inst`
